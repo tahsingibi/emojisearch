@@ -1,4 +1,4 @@
-####`proje patika.dev tarafından hazırlanmış olup yalnızca test işlemi tarafımca kodlanmıştır.`
+#### `proje patika.dev tarafından hazırlanmış olup yalnızca test işlemi tarafımca kodlanmıştır.`
 
 Emoji Search
 ---
